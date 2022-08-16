@@ -1,4 +1,4 @@
-# React SpellCheck API
+# React Supplier API
 
 ## Description
 

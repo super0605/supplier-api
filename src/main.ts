@@ -20,8 +20,8 @@ async function bootstrap(): Promise<void> {
   app.setGlobalPrefix('/');
 
   const options = new DocumentBuilder()
-    .setTitle('Outdefine Api')
-    .setDescription('The Outdefine Api documentation')
+    .setTitle('Rundoo Api')
+    .setDescription('The Rundoo Api documentation')
     .setVersion('1.0')
     .setBasePath('/')
     .addBearerAuth()

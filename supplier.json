@@ -1,0 +1,9 @@
+{
+  "suppliers": [
+    {
+      "name": "John Doe",
+      "logo": "https://logo-test/john-doe.png",
+      "address": "address Canada"
+    }
+  ]
+}
